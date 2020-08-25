@@ -10,7 +10,7 @@ token = open("token.txt","r").readline()
 client.remove_command('help')
 
 version = 'RELEASE 1.0.0'
-dateedited = 'August 25, 2020, 11:37am EDT'
+dateedited = 'August 25, 2020, 11:38am EDT'
 
 @client.event
 async def on_ready():
